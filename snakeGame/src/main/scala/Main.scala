@@ -1,19 +1,19 @@
 /*=======================================
-Nome: 			Exemplo snakeGame
-Disciplina: 		ECOM04
-Professor:		João Paulo Reus Rodrigues Leite
+Nome: 					snakeGame
+Disciplina: 		ECOM04 - Linguagens de Programação
+Professor:			João Paulo Reus Rodrigues Leite
 Data (código):	16/09/2018
 Data (entrega):	20/09/2018
-Propósito:		Exemplo de código na linguagem Scala, implementado o clássico jogo "snake", ou "jogo da cobrinha".
-				O objetivo é resolver um problema real de produtividade e motivação em campo de trabalho,
-				permitindo relaxamento do usuário enquanto toma um café.
+Propósito:			Exemplo de código na linguagem Scala, implementado o clássico jogo "snake", ou "jogo da cobrinha".
+								O objetivo é resolver um problema real de produtividade e motivação em campo de trabalho,
+								permitindo relaxamento do usuário enquanto toma um café.
 
-Alunos:			Andrei Alves Cardoso			30386
-				Breno Salgado de Oliveira		
-				Caíque Cleber de Rezende		
-				Erika Mayumi Saito Tagima		
-				Leonardo Said da Costa			
-				Tales Henrique Carvalho			
+Alunos:	Andrei Alves Cardoso
+				Breno Salgado de Oliveira
+				Caíque Cléber Dias de Rezende
+				Erika Mayumi Saito Tagima
+				Leonardo Said da Costa
+				Tales Henrique Carvalho
 				
 */
 
@@ -284,7 +284,7 @@ class Janela(val nome:String, val largura:Int, val altura:Int){
 }	
 
 //Objeto principal.
-object snakeGame{
+object snakeGame {
 	
 	//===================================================================================
 	//Uma variedade de configurações
